@@ -46,7 +46,7 @@ description: "i love old web"
 },
 {
 name: "0xf0xx0",
-url: "0xf0xx0.eth.limo",
+url: "https://0xf0xx0.eth.limo",
 description: "a lostkins corner of the internet.",
 }
 ];
